@@ -1,0 +1,6 @@
+{
+  "name": "Viral Video & Image Booster Studio",
+  "description": "All-in-one studio untuk Edit & Split Video panjang (30 menit menjadi part 3 menitan), Watermark PNG Transparan Sendiri, Teks Animasi Viral (Marquee, Pop In, Typewriter, Part Counter), serta Batch Image Enhancer rasio 4:5 Facebook Feed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
